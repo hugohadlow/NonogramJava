@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d4851be-83c8-4ca1-83f5-16fe093430a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eBK4jO1U6BFuo5AsV7ATLthSwU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cmcmarkets.cmcdevelopmenttask" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CmcOrderHandlerTest">
+    <configuration name="CmcOrderHandlerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmcmarkets.cmcdevelopmenttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmcmarkets.cmcdevelopmenttask" />
+      <option name="MAIN_CLASS_NAME" value="com.cmcmarkets.cmcdevelopmenttask.CmcOrderHandlerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmcOrderHandlerTest.insufficientQuantity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmcmarkets.cmcdevelopmenttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmcmarkets.cmcdevelopmenttask" />
+      <option name="MAIN_CLASS_NAME" value="com.cmcmarkets.cmcdevelopmenttask.CmcOrderHandlerTest" />
+      <option name="METHOD_NAME" value="insufficientQuantity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmcOrderHandlerTest.removeOrder_checkPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmcmarkets.cmcdevelopmenttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmcmarkets.cmcdevelopmenttask" />
+      <option name="MAIN_CLASS_NAME" value="com.cmcmarkets.cmcdevelopmenttask.CmcOrderHandlerTest" />
+      <option name="METHOD_NAME" value="removeOrder_checkPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit">
+      <module name="test" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.cmcmarkets.cmcdevelopmenttask in test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmcmarkets.cmcdevelopmenttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmcmarkets.cmcdevelopmenttask" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Tests" />
+      <item itemvalue="JUnit.com.cmcmarkets.cmcdevelopmenttask in test" />
+      <item itemvalue="JUnit.CmcOrderHandlerTest.insufficientQuantity" />
+      <item itemvalue="JUnit.CmcOrderHandlerTest.removeOrder_checkPrice" />
+      <item itemvalue="JUnit.CmcOrderHandlerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CmcOrderHandlerTest" />
+        <item itemvalue="JUnit.CmcOrderHandlerTest.removeOrder_checkPrice" />
+        <item itemvalue="JUnit.CmcOrderHandlerTest.insufficientQuantity" />
+        <item itemvalue="JUnit.com.cmcmarkets.cmcdevelopmenttask in test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4851be-83c8-4ca1-83f5-16fe093430a4" name="Default Changelist" comment="" />
+      <created>1593789356661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593789356661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="0" key="#Tests" timestamp="1593890910571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="243" y="0" key="#Tests/0.0.1280.680@0.0.1280.680" timestamp="1593890910571" />
+    <state x="243" y="0" key="#com.cmcmarkets.cmcdevelopmenttask_in_test" timestamp="1593891045795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="243" y="0" key="#com.cmcmarkets.cmcdevelopmenttask_in_test/0.0.1280.680@0.0.1280.680" timestamp="1593891045795" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593890817226">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593890817226" />
+    <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1593867906714">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1593867906714" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593890909435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1593890909435" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1593897868907">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593897868907" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1593897868907">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593897868907" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1593897868907">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593897868907" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1593897868907">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593897868907" />
+    <state x="376" y="233" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593890470129">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="233" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1593890470129" />
+    <state x="394" y="99" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593891144109">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="99" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1593891144109" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1593889256663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1593889256663" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593896943989">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593896943989" />
+  </component>
+</project>
